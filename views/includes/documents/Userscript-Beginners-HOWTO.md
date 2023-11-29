@@ -45,7 +45,7 @@ Find your web browser in the table below, and follow the links to find out the o
 &emsp; |
 **[Pale Moon][palemoon]** | &ndash; | &ndash; | [Greasemonkey &quot;Fork&quot;][palemoon] | &ndash; | [Greasemonkey &quot;Fork&quot;][palemoon]
 &emsp; |
-**[Safari][safari]** | &ndash; | &ndash; | &ndash; | [Tampermonkey][tampermonkeyForSafari] | &ndash;
+**[Safari][safari]** | &ndash; | [Userscripts][userscriptsForSafari] | &ndash; | [Tampermonkey][tampermonkeyForSafari], [Userscripts][userscriptsForSafari] | &ndash;
 &emsp; |
 **[SeaMonkey][seamonkey]** | &ndash; | &ndash; | [Greasemonkey Port][greasemonkeyPortForSeaMonkey]| [Greasemonkey Port][greasemonkeyPortForSeaMonkey]| [Greasemonkey Port][greasemonkeyPortForSeaMonkey]
 &emsp; |
@@ -64,6 +64,8 @@ Find your web browser in the table below, and follow the links to find out the o
 [tampermonkeyForFirefox]: Tampermonkey-for-Firefox
 [tampermonkeyForOpera]: Tampermonkey-for-Opera
 [tampermonkeyForSafari]: Tampermonkey-for-Safari
+
+[userscriptsForSafari]: Userscripts-for-Safari
 
 [violentmonkeyForChrome]: Violentmonkey-for-Chrome
 [violentmonkeyForChromium]: Violentmonkey-for-Chromium
